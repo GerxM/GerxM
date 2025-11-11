@@ -11,17 +11,19 @@
 ###
 
 <p align="left">✨ Creating bugs since '25<br>📚 I'm currently learning Fullstack Dev.<br>🎯 Goals: Stop s*cking<br>🎲 Fun fact: Lobbyhoe</p>
-<h2>Me rn</h2>
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnAwZ3h1ajZsdmpmcG81aHBnNWdzMzkzanJzN2ZuZzdmZGkxN3RmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif"  />
-</div>
-
-###
 
 <div align="left">
   <a href="https://de.linkedin.com/in/calogero-pio-melilli-971420241" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+</div>
+
+
+###
+
+<h2>Me rn</h2>
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnAwZ3h1ajZsdmpmcG81aHBnNWdzMzkzanJzN2ZuZzdmZGkxN3RmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif"  />
 </div>
 
 ###
