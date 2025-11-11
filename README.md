@@ -44,8 +44,6 @@
 
 <h2 align="left">Funny Snake</h2>
 
-###
-
 <img src="https://raw.githubusercontent.com/GerxM/GerxM/output/snake.svg" alt="Snake animation" />
 
 ###
