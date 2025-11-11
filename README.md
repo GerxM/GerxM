@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 </h1>
 
 ###
 
@@ -11,7 +11,10 @@
 ###
 
 <p align="left">✨ Creating bugs since '25<br>📚 I'm currently learning Fullstack Dev.<br>🎯 Goals: Stop s*cking<br>🎲 Fun fact: Lobbyhoe</p>
-
+<h2>Me rn</h2>
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnAwZ3h1ajZsdmpmcG81aHBnNWdzMzkzanJzN2ZuZzdmZGkxN3RmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif"  />
+</div>
 ###
 
 <div align="left">
@@ -39,12 +42,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
-###
-
-<h2 align="left">Funny Snake</h2>
-
-<img src="https://raw.githubusercontent.com/GerxM/GerxM/output/snake.svg" alt="Snake animation" />
 
 ###
 
